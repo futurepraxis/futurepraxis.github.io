@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Future Praxis launches site"
 date: 2020-02-24
 ---
 
