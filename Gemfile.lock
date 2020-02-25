@@ -266,7 +266,7 @@ DEPENDENCIES
   gemoji
   github-pages
   jekyll-feed (~> 0.12)
-  jekyll-paginate
+  jekyll-paginate (~> 1.1)
   rinku
   rouge
   sanitize
