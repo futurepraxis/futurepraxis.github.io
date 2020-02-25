@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 	<html>
 		<head>
-			<title>{{ page.title | downcase }}</title>
+			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 		</head>
@@ -9,8 +9,9 @@
 			{% include navigation.html %}
 			<div class="container">
 			<h1>{{ page.title }}</h1>
+			<div class="content">
 			{{ content }}
-			
+		</div>
 			</div><!-- /.container -->
 			{% include footer.html %}
 		</body>

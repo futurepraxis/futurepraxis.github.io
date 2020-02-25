@@ -2,9 +2,16 @@
 layout: default
 title: Portfolio
 ---
-	<ul class="posts">
+	<div class="portfolio-container">
 
 	  {% for portfolio in site.portfolio %}
-	    <li><span>{{ portfolio.date | date_to_string }}</span> » <a href="{{ portfolio.url }}" title="{{ portfoli.title }}">{{ portfolio.title }}</a></li>
+	  
+	  <figure class="portfolio-item-image"> 
+		  <a href="{{ portfolio.url }}" title="{{ portfolio.title }}"><img src="{{ portfolio.image }}"></a>
+		
+		<figcaption><a href="{{ portfolio.url }}" title="{{ portfolio.title }}">{{ portfolio.title }}</a></figcaption>
+	  </figure>
+		
+		
 	  {% endfor %}
-	</ul>
+	

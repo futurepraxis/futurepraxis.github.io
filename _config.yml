@@ -7,3 +7,4 @@ plugins:
   - jekyll-paginate
 collections: 
   portfolio:
+    output: true
