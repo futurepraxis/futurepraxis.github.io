@@ -81,7 +81,7 @@ ul.posts li {
     height: 425px;
     border-radius: 50%;
     border-color: #271140;
-    border-width: .25em;
+    border-width: 0em;
     border-style: solid;
 }
  figcaption {
