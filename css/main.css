@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Archivo|Archivo+Black|Noto+Serif+JP&display=swap');
 
 body {
-    margin: 60px auto;
-    width: 60%;
     background-color: #ffffff;
     color: #2b2d2f;
     font-family: "Noto Serif JP", 'Times New Roman', Times, serif;
@@ -12,6 +10,12 @@ body {
 nav ul, footer ul, a, h1, h2, h3, h4, h5, h6 {
     font-family: "Archivo Black", "Helvetica", "Arial", "sans-serif";
 }
+
+.container { 
+    margin: 60px auto;
+    width: 65%;
+}
+
 .content {
     position: relative;
     margin: 1em 0 2em 0;
