@@ -267,6 +267,7 @@ DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.12)
   jekyll-paginate (~> 1.1)
+  nokogiri (>= 1.10.8)
   rinku
   rouge
   sanitize
