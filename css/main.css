@@ -4,7 +4,7 @@ body {
     margin: 60px auto;
     width: 60%;
     background-color: #ffffff;
-    color: dimgray;
+    color: #2b2d2f;
     font-family: "Noto Serif JP", 'Times New Roman', Times, serif;
     font-size: 1em;
     line-height: 2.25em;
@@ -59,6 +59,11 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+.post-date { 
+    font-weight: bold;
+    font-size: 1.75em;
 }
 
 .portfolio-container { 
