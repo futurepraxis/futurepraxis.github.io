@@ -11,6 +11,25 @@ nav ul, footer ul, a, h1, h2, h3, h4, h5, h6 {
     font-family: "Archivo Black", "Helvetica", "Arial", "sans-serif";
 }
 
+h1, h2, h3, h4, h5, h6 {
+    color: #271140;
+}
+
+h1 {
+    font-size: 5em;
+    margin-bottom: 1em;
+    line-height: 1em;
+}
+
+h2 {
+    width: 95%;
+    font-size: 1.75em;
+    border-bottom: dotted;
+    border-width: .25em;
+    margin: 2em 0;
+    padding-bottom: .25em;
+}
+
 .container { 
     margin: 60px auto;
     width: 65%;
@@ -41,12 +60,8 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1 {
-    font-size: 5em;
-    margin-bottom: 1em;
-    color: #271140;
-    line-height: 1em;
-}
+
+
 p {
     font-size: 1.5em;
     line-height: 1.6em;
