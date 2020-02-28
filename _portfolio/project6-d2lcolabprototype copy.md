@@ -6,7 +6,7 @@ image: "/portfolio/assets/axure-responsive-prototype.png"
 ---
 [D2L coLab Responsive Prototype](https://jcmelh.axshare.com) was completed for HCI 430: Prototyping and Implementation at DePaul University.
 
-For this project, we were challenged with creating a responsive prototype in Axure for web, tablet, and mobile experiences. I chose to prototype a responsive calendar for D2L coLab, an application that my group is designing in class.
+For this project, we were challenged with creating a responsive prototype in Axure for web, tablet, and mobile experiences. I chose to prototype a responsive calendar for [D2L coLab](/portfolio/project7-d2lcolab), an application that my group is designing in class.
 
 D2L coLab is a plugin that adds more collabortive functionality to the Desire To Learn (D2L) learning-management system, to allow both online and in-class students to work on group projects together. 
 
