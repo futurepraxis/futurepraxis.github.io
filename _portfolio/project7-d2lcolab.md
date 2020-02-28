@@ -34,7 +34,7 @@ After we completed the sketches, we had a better sense of who our ideal users wo
 
 
 ### Digital Narrative Prototype
-With our personas, scenarios, and sketches in hand, we were ready to present our idea to our stakeholders (i.e. our professor, our classmates, and a couple of very gracious volunteer alums from [Fuzzy Math](https://fuzzymath.com/)) in order to earn their buy-in and get the green light for the project. 
+With our personas, scenarios, and sketches in hand, we were ready to present our idea to our stakeholders (i.e. our professor, our classmates, and a couple of very gracious alums from [Fuzzy Math](https://fuzzymath.com/)) in order to earn their buy-in and get the green light for the project. 
 
 To accomplish this, we created a digital narrative prototype (aka, a video) that presented our ideas in their full glory.
 
