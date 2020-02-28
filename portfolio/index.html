@@ -4,13 +4,15 @@ title: Portfolio
 ---
 	<div class="portfolio-container">
 
-	  {% for portfolio in site.portfolio %}
+		{% assign sorted = (site.portfolio | sort: 'date') | reverse %}
+
+	  {% for item in sorted %}
 	  
-	  <figure class="portfolio-item-image"> 
-		  <a href="{{ portfolio.url }}" title="{{ portfolio.title }}"><img src="{{ portfolio.image }}"></a>
+	  <div class="portfolio-item-image"> 
+		  <a href="{{ item.url }}" title="{{ item.title }}"><img src="{{ item.image }}"></a>
 		
-		<figcaption><a href="{{ portfolio.url }}" title="{{ portfolio.title }}">{{ portfolio.title }}</a></figcaption>
-	  </figure>
+		<div class="portfolio-link"><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></div>
+	  </div>
 		
 		
 	  {% endfor %}
