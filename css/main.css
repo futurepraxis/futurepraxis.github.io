@@ -150,7 +150,7 @@ ul.posts li {
     border: 0;
 }
 
-@media only screen and (min-width: 1000px) { 
+@media only screen and (min-width: 1500px) { 
     .container { 
     width: 70%;
         margin: auto;
