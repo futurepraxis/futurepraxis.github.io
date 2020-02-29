@@ -32,8 +32,8 @@ h2 {
 }
 
 .container { 
-    margin: 5em 2em;
-    width: 90%;
+    margin: 5em auto;
+    width: 70%;
 }
 
 .content {
@@ -43,7 +43,7 @@ h2 {
     border-left-color: #E6D350;
     border-left-width: 1.5em;
     border-left-style: solid;
-    padding-left: 1em;
+    padding-left: 1.5em;
 }
 nav ul, footer ul {
     font-size: 1.6em;
@@ -111,14 +111,10 @@ ul.posts li {
     min-width: 300px;
     height: 300px;
     border-radius: 50%;
-    border-color: grey;
-    border-width: 0;
-    border-style: solid;
-    margin-left: 0em;
 }
  .portfolio-link {
      text-align: center;
-     padding-left: 1em;
+     padding-left: 1.5em;
     }
 
     .post-image {
@@ -150,23 +146,19 @@ ul.posts li {
     border: 0;
 }
 
-@media only screen and (min-width: 1500px) { 
+@media only screen and (max-width: 600px) { 
     .container { 
-    width: 70%;
-        margin: auto;
+    width: 95%;
+       
     }
     
     portfolio-item-image img {
-            margin-left: 1em;
+             margin-left: 1em;
         }
 
         .content {
-            padding-left: 2.5em;
+            padding-left: 1em;
         }
-
-        .portfolio-link {
-            padding-left: 2.5em;
-           }
 }
 
 
