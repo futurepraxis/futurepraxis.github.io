@@ -32,7 +32,7 @@ h2 {
 }
 
 .container { 
-    margin: 5em 0;
+    margin: 5em 2em;
     width: 90%;
 }
 
@@ -103,6 +103,7 @@ ul.posts li {
   margin: 1.5em auto;
   width: 275px;
   height: 375px;
+  padding: 0 1em;
 }
 
 .portfolio-item-image img {
@@ -149,16 +150,13 @@ ul.posts li {
     border: 0;
 }
 
-    @media only screen and (min-width: 400px) {
-        /* tablets and desktop */
-
-        .container { 
-           width: 70%;
-           margin: 5em auto;
-            
-        }
-
-        .portfolio-item-image img {
+@media only screen and (min-width: 1000px) { 
+    .container { 
+    width: 70%;
+        margin: auto;
+    }
+    
+    portfolio-item-image img {
             margin-left: 1em;
         }
 
@@ -169,10 +167,8 @@ ul.posts li {
         .portfolio-link {
             padding-left: 2.5em;
            }
+}
 
-           h1 {
-    font-size: 5em;
-              }
-    }
+
     
     
