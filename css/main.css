@@ -32,8 +32,8 @@ h2 {
 }
 
 .container { 
-    margin: 3.75em auto;
-    width: 95%;
+    margin: 5em 0;
+    width: 90%;
 }
 
 .content {
@@ -68,9 +68,11 @@ p {
     font-size: 1.5em;
     line-height: 1.6em;
 }
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    margin-top: 1em;
 }
 
 ul.posts { 
@@ -147,12 +149,13 @@ ul.posts li {
     border: 0;
 }
 
-    @media only screen and (min-width: 768px) {
+    @media only screen and (min-width: 400px) {
         /* tablets and desktop */
 
         .container { 
-           
-            width: 65%;
+           width: 70%;
+           margin: 5em auto;
+            
         }
 
         .portfolio-item-image img {
@@ -172,6 +175,4 @@ ul.posts li {
               }
     }
     
-    @media only screen and (max-width: 767px) {
-        /* phones */
-    }
+    
