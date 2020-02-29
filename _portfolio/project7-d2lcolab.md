@@ -25,6 +25,7 @@ We began thinking of features for our app by doing a round of [design charettes.
 <img src="/portfolio/assets/d2lcolab/charette4.png" class="post-image" alt="A screenshot of some design sketches.">
 <img src="/portfolio/assets/d2lcolab/charette5.png" class="post-image" alt="A screenshot of some design sketches.">
 
+
 After we were done with our individual sketches, we came together as a group and discussed how we could combine all of our great ideas together. We then created a single sketch that showed our ideas. 
 
 <img src="/portfolio/assets/d2lcolab/finalcharette.png" class="post-image" alt="A screenshot of the final design sketch.">
@@ -38,7 +39,7 @@ With our personas, scenarios, and sketches in hand, we were ready to present our
 
 To accomplish this, we created a digital narrative prototype (aka, a video) that presented our ideas in their full glory.
 
-<iframe src="https://spark.adobe.com/video/z2uFLvWTkwu48/embed"  width="960" height="540" frameborder="0" allowfullscreen></iframe>
+<div class="resp-container"><iframe class="resp-iframe" src="https://spark.adobe.com/video/z2uFLvWTkwu48/embed" frameborder="0" allowfullscreen></iframe></div>
 
 After getting the green light, we decided to start building out prototypes of our app so that we could conduct usability testing with potential users. 
 
