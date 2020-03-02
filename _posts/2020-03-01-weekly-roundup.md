@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "This Week in Tech"
+title: "This Week's Reads"
 date: 2020-02-29
 ---
 
-As a person who reads a *lot*, I constantly find myself filing away interesting articles for later use/research. (I just checked my Instapaper and I have over 1,200 articles saved there.) Most of these articles are at least tangentially related to tech. However, I rarely get around to revisiting those articles as planned. So, I thought it would be a good idea to start rounding up my favorites on a weekly basis, and share them with other nerds on the internet as a form of motivation. 
+As a person who reads a *lot*, I constantly find myself filing away interesting articles for later use/research. (I just checked my Instapaper and I have over 1,200 articles saved.) Most of these articles are at least tangentially related to tech. However, I rarely get around to revisiting those articles as planned. So, I thought it would be a good idea to start rounding up my favorites on a weekly basis and sharing them here as a form of motivation. 
 
 Anyway, without much further ado, here's this week's top picks.
 
@@ -28,11 +28,11 @@ While "the science of causality" is a relatively new field of research in AI, it
 
 I've been thinking about this article a lot as I wander around Chicago and find that all the places I used to know are slowly, one-by-one, closing down. From gas stations to hardware stores to cafes to big-box retailers, it seems like the real world is slowly disappearing. I've been thinking a lot about a key question: *are cities obsolete?* 
 
-Cities exist as physical manifestations of capital. Chicago began as a trading post, as it provided a convenient link between the Great Lakes and the Mississippi River. During the Industrial Revolution, populations flocked to cities for jobs, as factories developed economies of scale. 
+Cities exist as physical manifestations of capital. Chicago began as a trading post, as it provided a convenient link between the Great Lakes and the Mississippi River. During the Industrial Revolution, populations flocked to cities for jobs, as factories developed economies of scale in convenient geographic locations. 
 
 But what happens to cities as capital becomes increasingly digital, divorced from the limitations of physical geography? The internet has revolutionized the way we work. Many businesses no longer have to rely on centralized, physical factories for production in order to be profitable. Businesses now increasingly rely on cloud economies. The result is that industries that once relied on *place* as a core part of their business model are becoming obsolete. 
 
-But as place becomes increasingly irrelevant and divorced from the production of capital, what does that mean for our cities? In a world where one can remote into work from virtually any location on the planet, what advantage is there in living close to the city center? When one can order literally anything they can imagine on Amazon, what need is there to live in a vibrant neighborhood close to major centers of commerce? When one can find a date on an app and hang out with their friends on Instagram and Face Time, is there a need to live in populous cities filled with social spaces like cafes and bars? 
+But as place becomes increasingly divorced from the production of capital, what does that mean for our cities? In a world where one can remote into work from virtually any location on the planet, what advantage is there in living close to the city center? When one can order literally anything they can imagine on Amazon, what need is there to live in a vibrant neighborhood close to major centers of commerce? When one can find a date on an app and hang out with their friends on Instagram and Face Time, is there a need to live in populous cities filled with social spaces like cafes and bars? 
 
 Only time will tell what cities will look like as cloud economies continue to develop.
 
