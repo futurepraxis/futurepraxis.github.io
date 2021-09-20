@@ -63,6 +63,24 @@ a:hover {
     text-decoration: underline;
 }
 
+.explainer:hover + p {
+    display:inline;
+}
+
+.help-text {
+    min-height: 5em;
+}
+
+.help-text p {
+    display: none;
+    padding: .5em;
+    font-size: .75em;
+    border-radius: 1px;
+    box-shadow: .25em .25em lightgray;
+    background-color: #eeeeee;
+    z-index: 2;
+}
+
 
 p {
     font-size: 1.5em;
@@ -150,6 +168,10 @@ ul.posts li {
     .container { 
     width: 95%;
        
+    }
+
+    .help-text {
+        min-height: 8.5em;
     }
     
     portfolio-item-image img {
