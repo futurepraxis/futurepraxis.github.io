@@ -2,6 +2,7 @@
 layout: post
 title: "Selfies & Aesthetic Resistance"
 date: 2020-02-25
+tags: selfies
 ---
 On November 18, 2013, the Oxford Dictionaries announced on their blog that the 2013 word of the year was *selfie*, which they define as “a photograph that one has taken of oneself, typically one taken with a smartphone or webcam and uploaded to a social media website.” 
 
