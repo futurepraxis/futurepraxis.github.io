@@ -6,7 +6,7 @@ image: "/portfolio/assets/newAlumniPortal022620.png"
 category: front-end
 excerpt_separator: <!--more-->
 ---
-For this project, I worked collaboratively with the Northwestern Law Marketing and Communications team to help redesign [Northwestern Law's Alumni Portal](http://www.law.northwestern.edu/alumni/)<!--more--> in order to make it easier for users to navigate the different resources available on the law school's large site.
+For this project, I worked collaboratively with the Northwestern Law Marketing and Communications team to help redesign [Northwestern Law's Alumni Portal](http://www.law.northwestern.edu/alumni/) in order to make it easier for users to navigate the different resources available on the law school's large site.
 
 **Graphic Design:** Mary Kate Strittmatter
 **HTML/CSS Design:** Natalie Roman

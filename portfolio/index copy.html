@@ -1,0 +1,50 @@
+---
+layout: default
+title: Portfolio
+---
+	<div class="portfolio-container">
+	
+		<!-- {% assign sorted = (site.portfolio | sort: 'date') | reverse %}
+	
+		{% for item in sorted %}
+	
+		<div class="portfolio-item-image">
+			<a href="{{ item.url }}" title="{{ item.title }}"><img src="{{ item.image }}"></a>
+	
+			<div class="portfolio-link"><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></div>
+		</div>
+		{% endfor %} -->
+		<h2>UX</h2>
+			{% assign sorted-UX = (site.portfolio | where: "category","UX") | sort: 'date' | reverse } %}
+			{% for item in sorted-UX %}
+			<div class="portfolio-item">
+				<figure>
+					<a href="{{ item.url }}" title="{{ item.title }}"><img src="{{ item.image }}"></a>
+					</figure>
+				<a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+			</div>
+			{% endfor %}
+
+		<h2>Prototypes</h2>
+			{% assign sorted-prototypes = (site.portfolio | where: "category","prototype") | sort: 'date' | reverse } %}
+			{% for item in sorted-prototypes %}
+			<div class="portfolio-item">
+				<figure>
+					<a href="{{ item.url }}" title="{{ item.title }}"><img src="{{ item.image }}"></a>
+					</figure>
+				<a href="{{ item.url }}" title="{{ item.title }}" class="portfolio-link">{{ item.title }}</a>
+			</div>
+			{% endfor %}
+
+			<h2>Front-End</h2>
+			{% assign sorted-frontend = (site.portfolio | where: "category","front-end") | sort: 'date' | reverse } %}
+			{% for item in sorted-frontend %}
+			<div class="portfolio-item">
+				<figure>
+					<a href="{{ item.url }}" title="{{ item.title }}"><img src="{{ item.image }}"></a>
+					</figure>
+				<a href="{{ item.url }}" title="{{ item.title }}" class="portfolio-link">{{ item.title }}</a>
+			</div>
+			{% endfor %}
+	</div>
+

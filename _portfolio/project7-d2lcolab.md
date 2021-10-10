@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 ---
 
 ## Introduction
-D2L coLab is a group project for HCI 430: Prototyping and Implementation at DePaul University.<!--more-->
+D2L coLab is a group project for HCI 430: Prototyping and Implementation at DePaul University.
 
 D2L coLab is an app designed to allow students to communicate about group projects. The app is intended to help in-class and online students collaborate on assignments. The app will integrate with the  D2L (Desire to Learn) learning-management system, which is used by universities nationwide.
 
