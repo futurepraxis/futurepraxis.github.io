@@ -5,3 +5,13 @@ title: Future Praxis
 <div class="blurb">
 	<p>Hi! I'm Natalie, and this is my site, Future Praxis. <a href="/about">Read more...</a></p>
 </div><!-- /.blurb -->
+
+
+<h2>Recent Projects</h2>
+{% for post in site.portfolio limit: 5 %}
+<div class="portfolio-item-image"> 
+	<a href="{{ post.url }}" title="{{ post.title }}"><img src="{{ post.image }}"></a>
+  
+  <div class="portfolio-link"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></div>
+</div>
+{% endfor %}
